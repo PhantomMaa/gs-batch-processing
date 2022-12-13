@@ -1,5 +1,5 @@
 # springboot-batch 5.0 例子
-改动官方提供的示例，官方是老版本。
+改动官方提供的示例，官方是老版本。https://github.com/spring-guides/gs-batch-processing
 - 升级spring-batch-core
 - 改造代码
 - 跑通示例
